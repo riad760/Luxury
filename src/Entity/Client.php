@@ -104,7 +104,7 @@ class Client
     }
 
     /**
-     * @return Collection<int, JobOffer>
+     * @return Collection<int, JobOffer> 
      */
     public function getJobOffers(): Collection
     {
